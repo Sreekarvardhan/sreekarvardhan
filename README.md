@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sreekar Pothuri</h1>
-<h3 align="center">I’m a final-year Computer Science student at VIT University, Vellore, passionate about crafting responsive, accessible, and high-performance web applications. I specialize in modern full-stack development, with a keen interest in creating seamless user experiences and scalable backend systems.</h3>
+<h3 align="center"> Passionate about crafting responsive, accessible, and high-performance web applications. I specialize in modern full-stack development, with a keen interest in creating seamless user experiences and scalable backend systems.</h3>
 
 - 🔭 I’m currently working on **Building full-stack web applications using MERN stack**
 
